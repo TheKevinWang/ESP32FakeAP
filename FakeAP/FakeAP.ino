@@ -5,7 +5,7 @@
 #include <DNSServer.h>
 #include "esp_wifi.h"
 // Replace with your network credentials
-const char* ssid = "testtttt";
+const char* ssid = "test";
 //set to null for open ap
 const char* password = NULL;//"testtest";
 typedef uint8_t MacAddr[6];
