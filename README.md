@@ -22,7 +22,7 @@ https://github.com/me-no-dev/arduino-esp32fs-plugin
 Make sure to hit Tools->ESP32 Sketch Data Upload after uploading firmware to upload the static web files.
 
 ## Example
-By default, wifi SSID is "Free Guest Wifi" and it is an open AP. All dns requests are redirected to the local webserver. 
+By default, the wifi SSID is "Free Guest Wifi" and it is an open AP. All dns requests are redirected to the local webserver. 
 
 ![phishing example](https://github.com/TheKevinWang/ESP32FakeAP/raw/main/FakeAP/FakeAPExample.png)
 
