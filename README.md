@@ -1,7 +1,7 @@
 # ESP32FakeAP
 Fake Wifi AP using ESP32 and ESPAsyncWebServer for static payload hosting. 
 
-#Arduino IDE installation
+# Arduino IDE installation
 
 Download and unzip the following into your arduino libraries directory (~/Documents/Arduino/libraries by default on windows; mkdir if not exit):
 
