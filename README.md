@@ -1,5 +1,6 @@
 # ESP32FakeAP
-Fake Wifi AP using ESP32 and ESPAsyncWebServer for static payload hosting. 
+
+By hosting payloads using files instead of inside .c files like many other projects, it's a lot more adaptable and usable. 
 
 # Arduino IDE installation
 
