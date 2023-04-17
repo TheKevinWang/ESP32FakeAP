@@ -1,6 +1,9 @@
 # ESP32FakeAP
 
-By hosting payloads using files instead of inside .c files like many other projects, it's a lot more adaptable and usable. 
+![Craiyon AI generated logo](https://github.com/TheKevinWang/ESP32FakeAP/raw/main/FakeAP/craiyon_logo.png)
+Craiyon.com Ai generated picture - "A hacker is using an ESP32 to broadcast a fake wifi access point. Logo."
+
+By hosting payloads using files instead of inside .c files like many other ESP32/ESP8266 projects, it's a lot more adaptable and usable. 
 
 ## Arduino IDE installation
 
