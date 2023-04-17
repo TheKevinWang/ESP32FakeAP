@@ -32,3 +32,7 @@ The example phishing payload is for a Broadcom firmware update based on [wifiphi
 Add credential phishing
 
 Add deauth and evil twin AP mode
+
+## Disclaimer
+
+Only use this for security testing with permission. 
