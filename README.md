@@ -1,8 +1,8 @@
 # ESP32FakeAP
 <p align="center">
-<img width="399" alt="immagine" src="https://github.com/TheKevinWang/ESP32FakeAP/raw/main/FakeAP/craiyon_logo.png">
+<img width="399" alt="immagine" src="https://raw.githubusercontent.com/TheKevinWang/ESP32FakeAP/main/FakeAP/esp32_fakeap_bing3.jpg">
 <br>
-Craiyon.com Ai generated picture - "A hacker is using an ESP32 to broadcast a fake wifi access point. Logo."
+Bing Ai generated picture - "A hacker is using an ESP32 to broadcast a fake wifi access point."
 </p>
 
 By hosting payloads using files instead of inside .c files like many other ESP32/ESP8266 projects, it's a lot more adaptable and usable. 
